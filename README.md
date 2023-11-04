@@ -39,9 +39,10 @@ During the development of this project, you may encounter a few challenges:
 
 If you encounter any difficulties or have questions, feel free to consult the project's documentation or seek help from the development community.
 
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss1.jpg)
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss2.jpg)
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss3.jpg)
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss4.jpg)
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss5.jpg)
-![Todo List Application Screenshot](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/blob/master/ss6.jpg)
+![ss1](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/a67a6ae8-432f-4193-a19b-443e6644b17a)
+![ss2](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/3360fc2f-1db6-43b9-b152-e736165883c8)
+![ss3](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/a4282b86-84f3-4980-b204-955d1cdf3a73)
+![ss4](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/6fa1df97-0bb5-44d9-bfe7-5f7f24eb3276)
+![ss5](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/1bf1fe3a-fd29-46f6-bd84-b973e3d6fa91)
+![ss6](https://github.com/AnshPatel-softdev/MAD_Assignment_2_21012011066/assets/125112525/2e9a47f7-54b8-4c65-9f29-2594e8ef2992)
+
